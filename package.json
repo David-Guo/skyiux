@@ -1,0 +1,22 @@
+{
+  "name": "skyiux",
+  "version": "1.0.0",
+  "description": "A demo for skyiux",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/David-Guo/skyiux.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "ethersjs": "^0.0.1-security"
+  },
+  "dependencies": {
+    "ethers": "^6.11.1"
+  }
+}
