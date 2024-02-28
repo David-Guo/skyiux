@@ -1,6 +1,6 @@
 {
   "name": "skyiux",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "A demo for skyiux",
   "main": "index.js",
   "scripts": {
@@ -13,10 +13,8 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "devDependencies": {
-    "ethersjs": "^0.0.1-security"
-  },
   "dependencies": {
-    "ethers": "^6.11.1"
+    "ethers": "^6.11.1",
+    "skywin": "^1.0.0"
   }
 }
